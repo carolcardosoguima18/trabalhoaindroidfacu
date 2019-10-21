@@ -35,7 +35,7 @@ public class Details extends AppCompatActivity {
         telefone.setText(contato.getTelefone());
         email.setText(contato.getEmail());
 
-        //BtEditar
+
 
     }
 
